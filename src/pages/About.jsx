@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="min-h-screen  text-white px-6 sm:px-10 lg:px-24 py-36 bg-[url('/public/About.jpg')] bg-cover bg-no-repeat">
+    <section className="min-h-screen  text-white px-6 sm:px-10 lg:px-24 py-36 bg-[url('/About.jpg')] bg-cover bg-no-repeat">
       
       {/* Header */}
       <div className="max-w-5xl mx-auto text-center space-y-6">

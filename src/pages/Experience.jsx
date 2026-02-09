@@ -61,7 +61,7 @@ const ExperiencePage = () => {
   return (
     <div className="w-full  text-white overflow-hidden">
       {/* Hero */}
-      <section className="relative min-h-screen flex items-center justify-center bg-[url('/public/Hotel.jpg')] bg-cover bg-no-repeat ">
+      <section className="relative min-h-screen flex items-center justify-center bg-[url('/Hotel.jpg')] bg-cover bg-no-repeat ">
         <div className=" " />
         <motion.div
           initial={{ opacity: 0, y: 60 }}
@@ -140,7 +140,7 @@ const ExperiencePage = () => {
       </section>
 
       {/* CTA */}
-      <section className="py-32 text-center px-6 bg-[url('/public/OIP.jpg')] bg-cover bg-no-repeat ">
+      <section className="py-32 text-center px-6 bg-[url('/OIP.jpg')] bg-cover bg-no-repeat ">
         <h2 className="text-4xl md:text-6xl font-extrabold mb-6">Your Luxury Stay Awaits</h2>
         <p className="text-gray-400 max-w-2xl mx-auto mb-10 text-lg">
           Book now and step into a world of elegance, comfort, and unforgettable hospitality.
