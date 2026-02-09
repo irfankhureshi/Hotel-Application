@@ -2,6 +2,7 @@ import React from "react";
 import { BedDouble, Utensils, Waves, MapPin, Star, Wifi, Dumbbell, Sparkles } from "lucide-react";
 import { motion } from "framer-motion";
 
+
 const experiences = [
   {
     id: 1,
